@@ -1,3 +1,4 @@
+f14c2db Task 2.3: Removing the frmt Variable
 7e67325 Task 2.2: Extract
 dde9763 Task 2.1: Refactor
 acbc97d Task 1.2: Update git log
